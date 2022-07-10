@@ -1,0 +1,9 @@
+img{
+    float: right;
+    width: 250px;
+    height: 150px;  
+}
+p{
+    text-align: justify;
+    font-size: larger;
+}
