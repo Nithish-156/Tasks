@@ -1,0 +1,13 @@
+@font-face {
+    font-family: pac;
+    src: url(Pacifico-Regular.ttf);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a{
+    font-family: 'Kanit', sans-serif;  
+}
+.b{
+    font-family: 'Permanent Marker', cursive;
+}
